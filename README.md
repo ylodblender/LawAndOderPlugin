@@ -5,3 +5,4 @@ To be honest, I don't really know how to use GitHub, but I was able to upload th
 Put this file in "plugins" and it will work, I don't know.
 
 When a murder or assault occurs, the perpetrator will be tracked and executed.
+This plugin assumes the use of Bukkit
